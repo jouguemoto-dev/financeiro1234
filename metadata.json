@@ -1,0 +1,6 @@
+{
+  "name": "Kakebo Minimal - Gestão Financeira Pessoal",
+  "description": "Sistema minimalista e completo de controle financeiro pessoal, orçamentos, contas, cartões e metas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
